@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Solanki
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning web development and graphic designing
+- 🌱 I’m currently learning web development and DSA
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ananya.solanki10@gmail.com
 
